@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">googlemap001</string>
+    <string name="swim_route">swimming</string>
+    <string name="walk_route">walking</string>
+</resources>
